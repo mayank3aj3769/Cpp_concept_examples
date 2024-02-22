@@ -3,3 +3,5 @@
 * Dynamic Casting
 * Map Iteration
 * Vector iterator example 
+* lambda functions
+* threads
